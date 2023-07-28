@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti, autem."
+    },
+    {
+      "id": 3,
+      "title": "Python",
+      "datetime": "July 28, 2023 6:12:15 PM",
+      "body": "Python is a popular programming language and also general purpose language."
+    },
+    {
+      "id": 4,
+      "title": "My Second Post",
+      "datetime": "July 28, 2023 9:57:12 PM",
+      "body": "This is my second post for react developers.\nand also I known HTML, CSS, JavaScript, React and Python"
+    }
+  ]
+}
